@@ -393,6 +393,10 @@ h6 { font-size: 16px;}
 	border:none;
 }
 
+.mb-1{
+	margin-bottom: 1px;
+}
+
 
 @media screen and (max-width: 1200px){
 	.main-container{
